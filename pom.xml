@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.bednar.javascript</groupId>
+    <artifactId>jquery</artifactId>
+    <version>1.10.2</version>
+    <packaging>jar</packaging>
+
+    <parent>
+        <artifactId>parent</artifactId>
+        <groupId>com.github.bednar</groupId>
+        <version>1-SNAPSHOT</version>
+    </parent>
+
+    <name>Maven jQuery dependency</name>
+
+    <url>https://github.com/bednar/jQuery</url>
+
+    <licenses>
+        <license>
+            <name>New BSD License</name>
+            <url>https://raw.github.com/bednar/jQuery/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <connection>scm:git:git@github.com:bednar/jQuery.git</connection>
+        <developerConnection>scm:git:git@github.com:bednar/jQuery.git</developerConnection>
+        <url>git@github.com:bednar/jQuery.git</url>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>bednar</id>
+            <name>Jakub Bednář</name>
+            <email>jakub.bednar@gmail.com</email>
+        </developer>
+    </developers>
+
+</project>
