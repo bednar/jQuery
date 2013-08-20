@@ -1,4 +1,8 @@
 jQuery
 ======
 
-Maven jQuery dependency.
+### Suported Versions
+
+### Dependency
+
+### Repository
