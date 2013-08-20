@@ -12,3 +12,5 @@ jQuery
     </dependency>
 
 ### Repository
+
+Will be in Maven Central Repository.
