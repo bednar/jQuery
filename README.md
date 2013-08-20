@@ -3,6 +3,11 @@ jQuery
 
 ### Supported Versions
 
+|   jQuery  |   Maven   |
+|:---------:|:---------:|
+|   1.10.2  |   1.10.2  | 
+
+
 ### Dependency
 
     <dependency>
