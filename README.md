@@ -1,0 +1,4 @@
+jQuery
+======
+
+Maven jQuery dependency.
