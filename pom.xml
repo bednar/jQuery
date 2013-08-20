@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <parent>
-        <artifactId>parent</artifactId>
+        <artifactId>maven-parent</artifactId>
         <groupId>com.github.bednar</groupId>
         <version>1-SNAPSHOT</version>
     </parent>
