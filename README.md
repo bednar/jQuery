@@ -1,7 +1,7 @@
 jQuery
 ======
 
-### Suported Versions
+### Supported Versions
 
 ### Dependency
 
