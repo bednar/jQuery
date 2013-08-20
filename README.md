@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/bednar/jQuery.png?branch=master)](https://travis-ci.org/bednar/jQuery) jQuery
+[![Build Status](https://travis-ci.org/bednar/jQuery.png?branch=master)](https://travis-ci.org/bednar/jQuery) [jQuery](http://jquery.com)
 ======
 
 ### Supported Versions
