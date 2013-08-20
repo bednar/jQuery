@@ -11,7 +11,7 @@
 ### Dependency
 
     <dependency>
-        <groupId>com.github.bednar.javascript</groupId>
+        <groupId>com.github.bednar</groupId>
         <artifactId>jquery</artifactId>
         <version>1.10.2</version>
     </dependency>
