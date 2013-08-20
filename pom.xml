@@ -15,7 +15,7 @@
         <version>1-SNAPSHOT</version>
     </parent>
 
-    <name>Maven jQuery dependency</name>
+    <name>jQuery Maven Dependency</name>
 
     <url>https://github.com/bednar/jQuery</url>
 
