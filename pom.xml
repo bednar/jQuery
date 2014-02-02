@@ -11,8 +11,8 @@
     <packaging>jar</packaging>
 
     <parent>
-        <artifactId>maven-parent</artifactId>
         <groupId>com.github.bednar</groupId>
+        <artifactId>maven-parent-javascript-library</artifactId>
         <version>1-SNAPSHOT</version>
     </parent>
 
@@ -22,7 +22,7 @@
 
     <licenses>
         <license>
-            <name>New BSD License</name>
+            <name>MIT License</name>
             <url>https://raw.github.com/bednar/jQuery/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
