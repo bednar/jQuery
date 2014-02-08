@@ -7,7 +7,7 @@
     <!--suppress MavenRedundantGroupId -->
     <groupId>com.github.bednar</groupId>
     <artifactId>jquery</artifactId>
-    <version>1.10.2</version>
+    <version>1.11.0</version>
     <packaging>jar</packaging>
 
     <parent>
